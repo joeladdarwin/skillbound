@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "skillbound"
+    }
+  },
+  "defaultProject": "skillbound",
+  "cli": {
+    "analytics": "ddd41b4b-13c6-4005-ba92-129a5beafa5d"
+  }
 }
